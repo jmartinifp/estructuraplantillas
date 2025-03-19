@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Mi feed RSS</title>
+	<description>Esta es la descripción</description>
+	<link>http://www.prueba/</link>
+		<item>
+			<title>Noticia 1</title>
+	   <description>Esta es la descripción de la noticia 1</description>
+	   <link>http://www.prueba/noticia1</link>
+		</item>
+		<item>
+			<title>Noticia 2</title>
+	   <description>Esta es la descripción de la noticia 2</description>
+	   <link>http://www.prueba/noticia2</link>
+		</item>
+	</channel>
+</rss>
